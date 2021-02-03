@@ -62,22 +62,27 @@ A way to style text on the web. You control the display of the document: formatt
 
 * ***Lists***
     1. Unorderd list
+
         ```
         * Item 1
         * Item 2
         * Item 3
         ```
+
 <img alt="Unorderd list" src="files\ul.png">
 
     2. Orderd list
+
         ```
         1. Item 1
         2. Item 2
         3. Item 3
         ```
+
 <img alt="Orderd list" src="files\ol.png">
 
     3. Nested list
+
         ```
         * Item 1
         * Item 2
@@ -86,6 +91,7 @@ A way to style text on the web. You control the display of the document: formatt
                 * Item 
         * Item 3
         ```
+
 <img alt="Nested list" src="files\nl.png">
 
     4. Task list
@@ -95,6 +101,7 @@ A way to style text on the web. You control the display of the document: formatt
         - [x] Item 2
         - [ ] Item 3
         ```
+        
 <img alt="Task list" src="files\tl.png">
 
 * ***Tables***
