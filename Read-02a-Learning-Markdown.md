@@ -61,7 +61,7 @@ A way to style text on the web. You control the display of the document: formatt
     ```
 
 * ***Lists***
-1. Unorderd list
+1.Unorderd list
 
 ```
 * Item 1
@@ -71,7 +71,7 @@ A way to style text on the web. You control the display of the document: formatt
 
 <img alt="Unorderd list" src="files\ul.png">
 
-2. Orderd list
+2.Orderd list
 
 ```
 1. Item 1
@@ -81,7 +81,7 @@ A way to style text on the web. You control the display of the document: formatt
 
 <img alt="Orderd list" src="files\ol.png">
 
-3. Nested list
+3.Nested list
 
 ```
 * Item 1
@@ -94,7 +94,7 @@ A way to style text on the web. You control the display of the document: formatt
 
 <img alt="Nested list" src="files\nl.png">
 
-4. Task list
+4.Task list
 
 ```
 - [x] Item 1
