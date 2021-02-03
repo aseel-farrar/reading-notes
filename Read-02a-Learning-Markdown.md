@@ -29,45 +29,63 @@ A way to style text on the web. You control the display of the document: formatt
     * Code: single backticks`,OR triple backticks ```
 
 * ***Images***
-```
-![Alt Text](url)
+    ```
+    ![Alt Text](url)
 
-```
+    ```
 
 * ***Links***
-```
-[link text](URL OR image/files paths OR )
-```
+    ```
+    [link text](URL OR image/files paths OR )
+    ```
 
 * ***Lists***
-    1. Orderd list
-    
+    1. Unorderd list
+        ```
         * Item 1
         * Item 2
         * Item 3
-    
-    2. Unorderd list
-    
+        ```
+        <img alt="Unorderd list" src="files\ul.png">
+
+    2. Orderd list
+        ```
         1. Item 1
         2. Item 2
         3. Item 3
-        
-    3. Nested list
+        ```
+        <img alt="Orderd list" src="files\ol.png">
 
+    3. Nested list
+        ```
         * Item 1
         * Item 2
             1. Item 1
             2. Item 2
                 * Item 
         * Item 3
-        
+        ```
+        <img alt="Nested list" src="files\nl.png">
+
     4. Task list
-    
+        ```
         - [x] Item 1
         - [x] Item 2
         - [ ] Item 3
 
-    
+        ```
+        <img alt="Task list" src="files\tl.png">
+
+* ***Tables***
+
+Course | Name
+------------ | -------------
+Code 101 | Explore Software Development
+Code 102 | Intro to Software Development
+Code 201 | Foundations of Software Development
+Code 301 | Intermediate Software Development
+Code 401 | Advanced Software Development
+
 <br>
 
 ## How to build your own site simply? :thinking:	
