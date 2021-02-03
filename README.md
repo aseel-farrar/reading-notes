@@ -7,13 +7,13 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 ***
 
 *Table of Notes-Readings:*
-1. CLASS 01
+- [x] CLASS 01
     * [Lab: 02b - Revisions and the Cloud](Lab-02b-Revisions-and-the-Cloud.md)
-2. CLASS 02
+- [x] CLASS 02
     * [Lab: 02a - Learning Markdown](Lab-02a-Learning-Markdown.md)
     * [Read: 02a - Learning Markdown](Read-02a-Learning-Markdown.md)
-3. CLASS 03
-4. CLASS 04
-5. CLASS 05
-6. CLASS 06
-7. CLASS 07
+- [x] CLASS 03
+- [ ] CLASS 04
+- [ ] CLASS 05
+- [ ] CLASS 06
+- [ ] CLASS 07
