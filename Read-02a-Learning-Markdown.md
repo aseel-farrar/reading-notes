@@ -2,6 +2,27 @@
 
 <br><br>
 
+## How to build your own site simply? :thinking:	
+
+<details>
+<summary> 1. Create a repository </summary>
+From GitHub  create a new repository as shown:
+<img alt="create repo." src="files\repo.png">
+</details>
+
+<details>
+<summary> 2. Clone the repository </summary>
+<img alt="Clone repo." src="files\clone.png">
+</details>
+
+<details>
+<summary> 3. ACP </summary>
+Add, commit, and push your changes:
+<img alt="acp" src="files\acp.png">
+</details>
+
+<br>
+
 ## MarkDown *MD*
 ### What is *MD*?
 A way to style text on the web. You control the display of the document: formatting words, adding images, and creating lists, etc. Files with the ```.md``` or ```.markdown``` extension are Markdown files.
@@ -46,7 +67,7 @@ A way to style text on the web. You control the display of the document: formatt
         * Item 2
         * Item 3
         ```
-        <img alt="Unorderd list" src="files\ul.png">
+<img alt="Unorderd list" src="files\ul.png">
 
     2. Orderd list
         ```
@@ -54,7 +75,7 @@ A way to style text on the web. You control the display of the document: formatt
         2. Item 2
         3. Item 3
         ```
-        <img alt="Orderd list" src="files\ol.png">
+<img alt="Orderd list" src="files\ol.png">
 
     3. Nested list
         ```
@@ -65,50 +86,32 @@ A way to style text on the web. You control the display of the document: formatt
                 * Item 
         * Item 3
         ```
-        <img alt="Nested list" src="files\nl.png">
+<img alt="Nested list" src="files\nl.png">
 
     4. Task list
+
         ```
         - [x] Item 1
         - [x] Item 2
         - [ ] Item 3
-
         ```
-        <img alt="Task list" src="files\tl.png">
+<img alt="Task list" src="files\tl.png">
 
 * ***Tables***
+    ```
+    Course | Name
+    ------------ | -------------
+    Code 101 | Explore Software Development
+    Code 102 | Intro to Software Development
+    Code 201 | Foundations of Software Development
+    Code 301 | Intermediate Software Development
+    Code 401 | Advanced Software Development
+    ```
 
-Course | Name
------------- | -------------
-Code 101 | Explore Software Development
-Code 102 | Intro to Software Development
-Code 201 | Foundations of Software Development
-Code 301 | Intermediate Software Development
-Code 401 | Advanced Software Development
+<img alt="Table" src="files\table.png">
 
 <br>
 
-## How to build your own site simply? :thinking:	
 
-<details>
-<summary> 1. Create a repository </summary>
-From GitHub  create a new repository as shown:
-<img alt="create repo." src="files\repo.png">
-</details>
-
-<details>
-<summary> 2. Clone the repository </summary>
-<img alt="Clone repo." src="files\clone.png">
-</details>
-
-<details>
-<summary> 3. ACP </summary>
-Add, commit, and push your changes:
-<img alt="acp" src="files\acp.png">
-</details>
-
-
-
-<br><br>
 
 [Back](README.md)
