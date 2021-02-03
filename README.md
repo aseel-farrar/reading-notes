@@ -8,4 +8,6 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 
 Table of Content
 1. [READ 01](read-01.md)
-2. [READ 02](read-02.md)
+2. READ 02
+    * [Lab: 02a - Learning Markdown](Lab-02a-Learning-Markdown.md)
+    * [Read: 02a - Learning Markdown](Read-02a-Learning-Markdown.md)
