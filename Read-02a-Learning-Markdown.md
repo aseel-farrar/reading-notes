@@ -39,33 +39,33 @@ A way to style text on the web. You control the display of the document: formatt
 [link text](URL OR image/files paths OR )
 ```
 
-* ***Links***
+* ***Lists***
     1. Orderd list
     
-    * Item 1
-    * Item 2
-    * Item 3
+        * Item 1
+        * Item 2
+        * Item 3
     
     2. Unorderd list
     
-    1. Item 1
-    2. Item 2
-    3. Item 3
-    
-    3. Nested list
-
-    * Item 1
-    * Item 2
         1. Item 1
         2. Item 2
-             * Item 
-    * Item 3
-    
+        3. Item 3
+        
+    3. Nested list
+
+        * Item 1
+        * Item 2
+            1. Item 1
+            2. Item 2
+                * Item 
+        * Item 3
+        
     4. Task list
     
-    - [x] Item 1
-    - [x] Item 2
-    - [ ] Item 3
+        - [x] Item 1
+        - [x] Item 2
+        - [ ] Item 3
 
     
 <br>
