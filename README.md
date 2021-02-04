@@ -16,7 +16,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
     * [Read: 02a - Learning Markdown](Read-02a-Learning-Markdown.md)
     * [Read: 02b - Revisions and the Cloud](Read-02b-Revisions-and-the-Cloud.md)
 - [x] CLASS 03
-
+    * [Read: 03 - Structure web pages with HTML](Read-03-Structure-web-pages-with-HTML.md)
 - [ ] CLASS 04
 
 - [ ] CLASS 05
