@@ -26,7 +26,7 @@ After answering the 4-W questions now you are ready to make ** site map ** which
 
 Also sketch for the key information that needs to go on each page of a Site which called **Wireframes** It shows the hierarchy of the information and how much space it might require and organize the information.
 
-![Wireframes](files/Wireframes.png)
+![Wireframes](files/wireframes.png)
 
 ***
 ## HTML
