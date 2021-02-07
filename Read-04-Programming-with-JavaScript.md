@@ -38,6 +38,7 @@ An expression evaluates into a single value. Broadly speaking there are two type
 ## OPERATORS
 
 They allow programmers to create a single value from one or more values. ASSIGNMENT OPERATORS
+
 ` color = 'beige';`
 
 ## ARITHMETIC OPERATORS
@@ -59,15 +60,16 @@ elTotal.textContent =total;
 ## STRING OPERATORS
 
 `var firstName = 'Ivy';`
-`greeting = 'Hi’ + 'Molly';`
 
 
 ## COMPARISON OPERATORS
+
 ` buy = 3 > 5;`
 
 ![COMPARISON OPERATORS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7nV2T-vJuxROKIJAC5mCsXdN_DU536m5bw&usqp=CAU)
 
 ## LOGICAL OPERATORS
+
 ` buy= (5 > 3) && (2 < 4);`
 
 ![LOGICAL OPERATORS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyY6GhRabFpqn8-rxsqpx4rDCP2iqq04ftbQ&usqp=CAU)
