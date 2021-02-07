@@ -60,7 +60,9 @@ elTotal.textContent =total;
 
 ## STRING OPERATORS
 
-`var firstName = "Ivy";`
+```
+var firstName = "Ivy";
+```
 
 
 ## COMPARISON OPERATORS
