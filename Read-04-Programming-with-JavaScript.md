@@ -57,6 +57,7 @@ elTotal.textContent =total;
 
 
 ## STRING OPERATORS
+
 ```
 var firstName = 'Ivy ' ;
 greeting= 'Hi’ + 'Molly';
