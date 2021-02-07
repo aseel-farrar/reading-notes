@@ -44,18 +44,16 @@ They allow programmers to create a single value from one or more values. ASSIGNM
 
 ![ARITHMETIC OPERATORS](files/ARITHMETIC-OPERATORS.png)
 
-```var subtotal (13 + 1) * 5;  // Subtotal is 70
-var shipping 0.5 * (13 + 1) ; // Shipping i s 7
-var total subtotal + shipping ; II Total is 77
-var el Sub document .getElementByid(' subtotal ') ;
-elSub .textContent =subtotal ;
-var elShip = document .getElement Byid('shi ppi ng ') ;
-elShip.textContent =shipping;
-var elTotal = document .getElementByid('total ');
-elTotal.textContent =total;
-```
-
-
+    ```var subtotal (13 + 1) * 5;  // Subtotal is 70
+    var shipping 0.5 * (13 + 1) ; // Shipping i s 7
+    var total subtotal + shipping ; II Total is 77
+    var el Sub document .getElementByid(' subtotal ') ;
+    elSub .textContent =subtotal ;
+    var elShip = document .getElement Byid('shi ppi ng ') ;
+    elShip.textContent =shipping;
+    var elTotal = document .getElementByid('total ');
+    elTotal.textContent =total;
+    ```
 <br>
 
 ## COMPARISON OPERATORS
