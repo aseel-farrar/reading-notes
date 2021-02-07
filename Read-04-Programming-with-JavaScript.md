@@ -64,7 +64,7 @@ elTotal.textContent =total;
 var firstName = "Ivy";
 ```
 
-
+<br>
 ## COMPARISON OPERATORS
 
 ` buy = 3 > 5;`
