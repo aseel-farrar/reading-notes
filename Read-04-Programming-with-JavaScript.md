@@ -45,6 +45,7 @@ They allow programmers to create a single value from one or more values. ASSIGNM
 
 ![ARITHMETIC OPERATORS](files/ARITHMETIC-OPERATORS.png)
 
+
 ```var subtotal (13 + 1) * 5;  // Subtotal is 70
 var shipping 0.5 * (13 + 1) ; // Shipping i s 7
 var total subtotal + shipping ; II Total is 77
@@ -59,7 +60,7 @@ elTotal.textContent =total;
 
 ## STRING OPERATORS
 
-`var firstName = 'Ivy';`
+`var firstName = "Ivy";`
 
 
 ## COMPARISON OPERATORS
