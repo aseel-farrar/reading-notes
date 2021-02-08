@@ -21,6 +21,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
     * [Read: 04 - Programming with JavaScript](Read-04-Programming-with-JavaScript.md)
 
 - [ ] CLASS 05
+    * [Read: 05 - Operators and Loops](Read-05-Operators-and-Loops.md)
 
 - [ ] CLASS 06
 
