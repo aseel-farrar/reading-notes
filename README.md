@@ -25,6 +25,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 
 - [ ] CLASS 06: Functions & CSS
     * [Read: 06a - Functions](Read-06a-Functions.md)
+    * [Read: 06b - Design web pages with CSS](Read-06b-Design-web-pages-with-CSS.md)
 
 
 
