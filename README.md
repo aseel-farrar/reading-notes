@@ -29,4 +29,4 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
         * [Read: 06b - Design web pages with CSS](Read-06b-Design-web-pages-with-CSS.md)
         
 2. **Code 201**
-    * Class 01: [Read: 01 - Introductory HTML and JavaScript](class-01.md)
+    - [x] Class 01: [Read: 01 - Introductory HTML and JavaScript](class-01.md)
