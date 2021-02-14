@@ -2,10 +2,10 @@
 
 ## How People access the web?
 There are different ways can people use to access the web:
-    1. Browsers: Firefox, Internet Explorer, Safari, Chrome, and Opera, etc.
-    2. Web servers: special computer which hosts the website, they are constantly connected to the Internet, and are optimized to send web pages out to people who request them.
-    3. screen readers: programs that read out the contents of a computer screen to people with visual impairments.
-    4. devices: desktop computers, laptops, tablets, and mobile phones.
+1. Browsers: Firefox, Internet Explorer, Safari, Chrome, and Opera, etc.
+2. Web servers: special computer which hosts the website, they are constantly connected to the Internet, and are optimized to send web pages out to people who request them.
+3. screen readers: programs that read out the contents of a computer screen to people with visual impairments.
+4. devices: desktop computers, laptops, tablets, and mobile phones.
 ## How are Websites created?
 * All websites use HTML and CSS.
 * Most web pages also include extra content such as images, audio, video, or animations.
@@ -30,13 +30,13 @@ The `<title>` element are either shown in the top of the browser, above where yo
 
 We add comments to our code by place it between the `<!--` and `-->` markers. 
 
-*ID attribute: * It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character). It is important that no two elements on the same page have the same value for their id attributes.
+*ID attribute:* It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character). It is important that no two elements on the same page have the same value for their id attributes.
 
 ```html
 <p id="pullquote">Every time I view the sea, I feel a calming sense of security, as if visiting my ancestral home; I embark on a voyage of seeing.
 </p>
 ```
-*CLASS attribute: *It is used to uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
+*CLASS attribute:*It is used to uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
 
 ```html
 <p class="important">For a one-year period from November 2010, the Marugame Genichiro-Inokuma Museum of Contemporary Art (MIMOCA) will host a cycle of four Hiroshi Sugimoto exhibitions. </p>
@@ -83,13 +83,7 @@ The most common reason why people use `<span>` elements is so that they can cont
 ## Iframes
 An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
-```html
-<iframe
-width="450"
-height="350"
-src="http://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed">
-</iframe>
-```
+
 
 ![iframes](files/iframes.png)
 
