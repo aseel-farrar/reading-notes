@@ -18,7 +18,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
         * [Read: 02b - Revisions and the Cloud](Read-02b-Revisions-and-the-Cloud.md)
     - [x] CLASS 03: HTML
         * [Read: 03 - Structure web pages with HTML](Read-03-Structure-web-pages-with-HTML.md)
-    - [ ] CLASS 04: JavaScript
+    - [x] CLASS 04: JavaScript
         * [Read: 04 - Programming with JavaScript](Read-04-Programming-with-JavaScript.md)
 
     - [x] CLASS 05: JavaScript Operators and Loops
