@@ -36,8 +36,9 @@ HTML pages are text documents uses tags which are referred to as elements and us
 
 The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure. The new elements provide clearer code. older browsers that do not understand HTML5.
 
-`<!DOCTYPES>` tell browsers which version of HTML you are using. add comments to your code by place it between the
-`<!--` and `-->` markers. Some elements will always appear to start on a new line in the browser window. These are known as block level elements Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements `<a>`, `<b>`, `<em>`, and `<img>`. The `<div>` and `<span>` elements allow you to group block-level and inline elements together.
+`<!DOCTYPES>` tell browsers which version of HTML you are using. add comments to your code by place it between the `<!--` and `-->` markers. 
+
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements `<a>`, `<b>`, `<em>`, and `<img>`. The `<div>` and `<span>` elements allow you to group block-level and inline elements together.
 `<iframes>` cut windows into your web pages through which other pages can be displayed.
 
 ![iframes](files/iframes.png)

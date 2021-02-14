@@ -8,6 +8,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 
 *Table of Notes-Readings:*
 
+1. Code 102
 - [x] CLASS 01: git & GitHub
     * [Lab: 02b - Revisions and the Cloud](Lab-02b-Revisions-and-the-Cloud.md)
 
@@ -26,8 +27,5 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 - [ ] CLASS 06: Functions & CSS
     * [Read: 06a - Functions](Read-06a-Functions.md)
     * [Read: 06b - Design web pages with CSS](Read-06b-Design-web-pages-with-CSS.md)
-
-
-
-
-+ When the page is rendered
+ 2. Code 201
+    * [Read: 01 - Introductory HTML and JavaScript](class-01.md)
