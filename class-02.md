@@ -86,7 +86,7 @@ The `<address>` element has quite a specific use: to contain contact details for
 ```
 
 ## Changes to Content
-The `<ins>` element can be used to show content that has been inserted into a document, while the <del> element can show text that has been deleted from it.
+The `<ins>` element can be used to show content that has been inserted into a document, while the `<del>` element can show text that has been deleted from it.
 `<p>It was the <del>worst</del> <ins>best</ins> idea she had ever had.</p> `
-The `<s>` element indicates something that is no longer accurate or relevant (but that should not be deleted). Visually the content of an <s> element will usually be displayed with a line through the center.
+The `<s>` element indicates something that is no longer accurate or relevant (but that should not be deleted). Visually the content of an `<s>` element will usually be displayed with a line through the center.
 
