@@ -59,15 +59,15 @@ It tells the browser what to do if the content contained within a box is larger 
 
 ### border-style
 can be the following values:
-* solid a single solid line
-* dotted a series of square dots
-* dashed a series of short lines
-* double two solid lines 
-* groove appears to be carved into the page
-* ridge appears to stick out from the page
-* inset appears embedded into the page
-* outset looks like it is coming out of the screen
-* hidden / none no border is shown
+* *solid* a single solid line
+* *dotted* a series of square dots
+* *dashed* a series of short lines
+* *double two solid lines* 
+* *groove* appears to be carved into the page
+* *ridge* appears to stick out from the page
+* *inset* appears embedded into the page
+* *outset* looks like it is coming out of the screen
+* *hidden / none* no border is shown
 
 
 ## An array
