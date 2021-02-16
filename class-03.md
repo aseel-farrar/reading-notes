@@ -52,7 +52,22 @@
 ##  Boxes
 * CSS treats each HTML element as if it lives in its own box.
 * By default a box is sized just big enough to hold its contents. To change the dimensions for a box you can use the height and width properties.
-* The popular ways to specify the size of a box are: pixels, ems (the size of the box is based on the size of text within it), or percentages (size of the box is relative to the size of the browser window or the parent box).
+* The popular ways to specify the size of a box are: pixels, ems (the size of the box is based on the size of text within it), or percentages (size of the box is relative to the size of the browser window or the parent box.
+
+### overfloWing content
+It tells the browser what to do if the content contained within a box is larger than the box itself. It can be *hidden* OR *scroll*.
+
+### border-style
+can be the following values:
+* solid a single solid line
+* dotted a series of square dots
+* dashed a series of short lines
+* double two solid lines 
+* groove appears to be carved into the page
+* ridge appears to stick out from the page
+* inset appears embedded into the page
+* outset looks like it is coming out of the screen
+* hidden / none no border is shown
 
 
 ## An array
