@@ -40,12 +40,14 @@
         <dd>An Italian cheese usually made from whole cow's milk (although it was traditionally made from buffalo milk)</dd>
 </dl>
 ```
-<br> 
+
+***
 
 ![dl](files/html-dl.png)
 
 
-* You can put a second list inside an `<li>` element to create a sublist or nested list
+* You can put a second list inside an `<li>` element to create a sublist or nested list.
+
 
 ##  Boxes
 * CSS treats each HTML element as if it lives in its own box.
