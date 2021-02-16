@@ -27,6 +27,7 @@
 ![ul](files/html-ul.png)
 
 3.	Definition lists: made up of a set of terms along with the definitions for each of those terms. it is created with the `<dl>` element, Inside the `<dl>` element you will usually see pairs of `<dt>` and `<dd>` elements. `<dt>` used to contain the definition term. `<dd>` used to contain the definition.
+
 ```html
 <dl>
     <dt>Sashimi</dt>
@@ -39,6 +40,8 @@
         <dd>An Italian cheese usually made from whole cow's milk (although it was traditionally made from buffalo milk)</dd>
 </dl>
 ```
+<br> 
+
 ![dl](files/html-dl.png)
 
 
