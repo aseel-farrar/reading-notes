@@ -41,7 +41,8 @@
 ```
 ![dl](files/html-dl.png)
 
-You can put a second list inside an <li> element to create a sublist or nested list
+
+* You can put a second list inside an `<li>` element to create a sublist or nested list
 
 ##  Boxes
 * CSS treats each HTML element as if it lives in its own box.
@@ -97,7 +98,7 @@ switch (level) {
 ```
 
 ## TRUTHY & FALSY VALUES
-![ TRUTHY-FALSY-VALUES](files/ TRUTHY-FALSY-VALUES.png)
+![ TRUTHY-FALSY-VALUES](files/TRUTHY-FALSY-VALUES.png)
 
 
 ## Loops
