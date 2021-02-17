@@ -103,7 +103,7 @@ A switch statement starts with a variable called the switch value. Each case ind
 ```javascript
 switch (level) {
     case 'One ':
-        title= 'Level 1' ;
+        title = 'Level 1' ;
         break;
     case 'Two':
         tit1e = ' Level 2 ' ;
@@ -112,7 +112,7 @@ switch (level) {
         title = 'Level 3' ;
         break ;
     default :
-        title= 'Test';
+        title = 'Test';
         break;
 }
 ```
@@ -152,3 +152,10 @@ do {
     i++;
 } whil e ( i < 10) ; 
 ```
+
+***
+
+Go back
+
+[Back](README.md)
+

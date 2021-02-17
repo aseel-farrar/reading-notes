@@ -151,3 +151,10 @@ return width * hight;
 
 ## Calling a function need information
 `getArea(width, hight);` or we can assign the return value to variable `var area = getArea(width, hight)`
+
+***
+
+Go back
+
+[Back](README.md)
+
