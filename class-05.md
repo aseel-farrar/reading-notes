@@ -16,6 +16,7 @@
 <img src="images/bird.gif" alt="Bird" width="100" height="100" />
 <p>There are around 10,000 living species of birds that inhabit different ecosystems from the Arctic to the Antarctic. Many species undertake long distance annual migrations, and many more perform shorter irregular journeys.</p>
 ```
+
 ![before a paragraph](files/1.png)
 
 2. Inside the start of a paragraph
@@ -24,11 +25,13 @@
 ```
 
 ![Inside the start of a paragraph](files/2.png)
+
 3. In the middle of a paragraph
 ```html
 <p>There are around 10,000 living species of birds that inhabit different ecosystems from the Arctic to the Antarctic.<img src="images/bird.gif" alt="Bird" width="100" height="100" />Many species undertake long distance annual migrations, and many more perform shorter irregular journeys.</p>
 ```
 ![In the middle of a paragraph](files/3.png)
+
 ### Rules for Creating Images
 1. Save Images in the Right format.
 2. Save Images at the Right Size.
