@@ -35,4 +35,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
     - [x] Class 04: [Read: 04 - HTML Links, CSS Layout, JS Functions](class-04.md)    
     - [x] Class 05: [Read: 05 - HTML Images; CSS Color & Text](class-05.md)    
     - [x] Class 06: [Read: 06 - JS Object Literals; The DOM](class-06.md)    
-    - [x] Class 07: [Read: 07 - HTML Tables; JS Constructor Functions](class-07.md)
+    - [x] Class 07: [Read: 07 - HTML Tables; JS Constructor Functions](class-07.md)    
+    - [x] Class 08: [Read: 08 - More CSS Layout](class-08.md)
+
+    
