@@ -75,7 +75,6 @@ hotel ['name'] = 'park';
 hotel.name = '';
 delete hotel.name;
 ```
-### create constructor notation
 
 
 
