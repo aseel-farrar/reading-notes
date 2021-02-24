@@ -3,12 +3,14 @@
 ## Forms 
 * printed document that contains spaces for you to fill in information
 * Information from a form is sent in name/value pairs.
+
 ```html
 <form action="http://www.example.com/subscribe.php" method="get">
   <p>This is where the form controls will appear.
   </p>
 </form>
 ```
+
 `action` Every `<form>` element requires an action attribute. Its value
 is the URL for the page on the server that will receive the
 information in the form when it is submitted.
