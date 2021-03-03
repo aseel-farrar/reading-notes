@@ -41,5 +41,6 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
     - [x] Class 10: [Read: 10 - JS Debugging](class-10.md)
     - [x] Class 11: [Read: 11 - Assorted Topics](class-11.md)
     - [x] Class 12: [Read: 12 - Docs for the HTML `<canvas>` Element & `Chart.js`](class-12.md)
-    - [x] Class 13: [Read: 13 - Local Storage](class-13.md)
+    - [x] Class 14a: [Read: 14a - CSS Transforms, Transitions, and Animations](class-14a.md)
+    - [x] Class 14b: [Read: 14b - What Google Learned About Teams](class-14b)
     
