@@ -1,5 +1,6 @@
+# Reading Notes
 
-## About Me:
+ **About Me:**
 My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering from Jordan University, also graduated with and diploma degree in IT from WSTC. I have a passion for learning and master new skills, Continuously develop and improve my current knowledge and skills so I applied in ASAC scholarship.
 
 [GitHup Account](https://github.com/aseel-farrar)
@@ -8,7 +9,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 
 *Table of Notes-Readings:*
 
-1. **Code 102**
+1. ## Code 102 - Intro to Software Development
     - [x] CLASS 01: git & GitHub
         * [Lab: 02b - Revisions and the Cloud](Lab-02b-Revisions-and-the-Cloud.md)
 
@@ -28,7 +29,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
         * [Read: 06a - Functions](Read-06a-Functions.md)
         * [Read: 06b - Design web pages with CSS](Read-06b-Design-web-pages-with-CSS.md)
         
-2. **Code 201**
+2. ## Code 201 - Foundations of Software Development
     - [x] Class 01: [Read: 01 - Introductory HTML and JavaScript](class-01.md)
     - [x] Class 02: [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
     - [x] Class 03: [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
@@ -44,3 +45,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
     - [x] Class 14a: [Read: 14a - CSS Transforms, Transitions, and Animations](class-14a.md)
     - [x] Class 14b: [Read: 14b - What Google Learned About Teams](class-14b)
     
+3. ## Code 301 - Intermediate Software Development
+
+
+4. ## Code 401 - Advanced Software Development
