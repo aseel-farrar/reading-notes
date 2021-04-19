@@ -34,6 +34,7 @@ _Table of Notes-Readings:_
      - [Read: 06b - Design web pages with CSS](Read-06b-Design-web-pages-with-CSS.md)
 
 2. ## Code 201 - Foundations of Software Development
+
    - [x] Class 01: [Read: 01 - Introductory HTML and JavaScript](class-01.md)
    - [x] Class 02: [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
    - [x] Class 03: [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
@@ -48,6 +49,10 @@ _Table of Notes-Readings:_
    - [x] Class 12: [Read: 12 - Docs for the HTML `<canvas>` Element & `Chart.js`](class-12.md)
    - [x] Class 14a: [Read: 14a - CSS Transforms, Transitions, and Animations](class-14a.md)
    - [x] Class 14b: [Read: 14b - What Google Learned About Teams](class-14b)
+
 3. ## Code 301 - Intermediate Software Development
+
    - [x] Class 01: [Read: 01 - SMACSS and Responsive Web Design](class301-01.md)
+   - [x] Class 02: [Read: 02 - jQuery, Events, and The DOM](class301-02.md)
+
 4. ## Code 401 - Advanced Software Development
