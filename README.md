@@ -55,5 +55,6 @@ _Table of Notes-Readings:_
    - [x] Class 01: [Read: 01 - SMACSS and Responsive Web Design](class301-01.md)
    - [x] Class 02: [Read: 02 - jQuery, Events, and The DOM](class301-02.md)
    - [x] Class 03: [Read: 03 - Flexbox and Templating](class301-03.md)
+   - [x] Class 04: [Read: 04 - Responsive Web Design and Regular Expressions](class301-04.md)
 
 4. ## Code 401 - Advanced Software Development
