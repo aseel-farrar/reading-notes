@@ -56,5 +56,6 @@ _Table of Notes-Readings:_
    - [x] Class 02: [Read: 02 - jQuery, Events, and The DOM](class301-02.md)
    - [x] Class 03: [Read: 03 - Flexbox and Templating](class301-03.md)
    - [x] Class 04: [Read: 04 - Responsive Web Design and Regular Expressions](class301-04.md)
+   - [x] Class 05: [Read: 05 - Heroku Deployment](class301-05.md)
 
 4. ## Code 401 - Advanced Software Development
