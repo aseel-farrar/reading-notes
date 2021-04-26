@@ -58,5 +58,6 @@ _Table of Notes-Readings:_
    - [x] Class 04: [Read: 04 - Responsive Web Design and Regular Expressions](class301-04.md)
    - [x] Class 05: [Read: 05 - Heroku Deployment](class301-05.md)
    - [x] Class 06: [Read: 06 - Node, Express, and APIs](class301-06.md)
+   - [x] Class 07: [Read: 07 - APIs continued](class301-07.md)
 
 4. ## Code 401 - Advanced Software Development
