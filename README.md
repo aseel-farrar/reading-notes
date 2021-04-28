@@ -60,5 +60,6 @@ _Table of Notes-Readings:_
    - [x] Class 06: [Read: 06 - Node, Express, and APIs](class301-06.md)
    - [x] Class 07: [Read: 07 - APIs continued](class301-07.md)
    - [x] Class 08: [Read: 08 - SQL](class301-08.md)
+   - [x] Class 09: [Read: 09 - Refactoring](class301-09.md)
 
 4. ## Code 401 - Advanced Software Development
