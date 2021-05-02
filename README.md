@@ -63,6 +63,6 @@ _Table of Notes-Readings:_
    - [x] Class 09: [Read: 09 - Refactoring](class301-09.md)
    - [x] Class 10: [Read: 10 - The Call Stack and Debugging](class301-10.md)
    - [x] Class 11: [Read: 11 - EJS](class301-11.md)
-   - [x] Class 12: [Read: 11 - EJS](class301-12.md)
+   - [x] Class 12: [Read: 12 - Components](class301-12.md)
 
 4. ## Code 401 - Advanced Software Development
