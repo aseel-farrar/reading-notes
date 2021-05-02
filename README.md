@@ -61,5 +61,7 @@ _Table of Notes-Readings:_
    - [x] Class 07: [Read: 07 - APIs continued](class301-07.md)
    - [x] Class 08: [Read: 08 - SQL](class301-08.md)
    - [x] Class 09: [Read: 09 - Refactoring](class301-09.md)
+   - [x] Class 10: [Read: 10 - The Call Stack and Debugging](class301-10.md)
+   - [x] Class 11: [Read: 11 - EJS](class301-11.md)
 
 4. ## Code 401 - Advanced Software Development
