@@ -66,5 +66,6 @@ _Table of Notes-Readings:_
    - [x] Class 12: [Read: 12 - Components](class301-12.md)
    - [x] Class 13: [Read: 13 - Update/Delete](class301-13.md)
    - [x] Class 14: [Read: 14a - DB Normalization](class301-14.md)
+   - [x] Class 15: [Read: 15 - Diversity and Inclusion](class301-15.md)
 
 4. ## Code 401 - Advanced Software Development
