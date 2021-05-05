@@ -65,5 +65,6 @@ _Table of Notes-Readings:_
    - [x] Class 11: [Read: 11 - EJS](class301-11.md)
    - [x] Class 12: [Read: 12 - Components](class301-12.md)
    - [x] Class 13: [Read: 13 - Update/Delete](class301-13.md)
+   - [x] Class 14: [Read: 13 - Update/Delete](class301-14.md)
 
 4. ## Code 401 - Advanced Software Development
