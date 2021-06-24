@@ -11,23 +11,17 @@ _Table of Notes-Readings:_
 
 1. ## Code 102 - Intro to Software Development
 
-   - [x] CLASS 01: git & GitHub
-
-     - [Lab: 02b - Revisions and the Cloud](Lab-02b-Revisions-and-the-Cloud.md)
+   - [x] CLASS 01: [Lab: 02b - Revisions and the Cloud](Lab-02b-Revisions-and-the-Cloud.md)
 
    - [x] CLASS 02: Markdown
      - [Lab: 02a - Learning Markdown](Lab-02a-Learning-Markdown.md)
      - [Read: 02a - Learning Markdown](Read-02a-Learning-Markdown.md)
      - [Read: 02b - Revisions and the Cloud](Read-02b-Revisions-and-the-Cloud.md)
-   - [x] CLASS 03: HTML
-     - [Read: 03 - Structure web pages with HTML](Read-03-Structure-web-pages-with-HTML.md)
-   - [x] CLASS 04: JavaScript
+   - [x] CLASS 03: [Read: 03 - Structure web pages with HTML](Read-03-Structure-web-pages-with-HTML.md)
 
-     - [Read: 04 - Programming with JavaScript](Read-04-Programming-with-JavaScript.md)
+   - [x] CLASS 04: [Read: 04 - Programming with JavaScript](Read-04-Programming-with-JavaScript.md)
 
-   - [x] CLASS 05: JavaScript Operators and Loops
-
-     - [Read: 05 - Operators and Loops](Read-05-Operators-and-Loops.md)
+   - [x] CLASS 05: [Read: 05 - Operators and Loops](Read-05-Operators-and-Loops.md)
 
    - [x] CLASS 06: Functions & CSS
      - [Read: 06a - Functions](Read-06a-Functions.md)
