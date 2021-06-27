@@ -63,3 +63,4 @@ _Table of Notes-Readings:_
    - [x] Class 15: [Read: 15 - Diversity and Inclusion](class301-15.md)
 
 4. ## Code 401 - Advanced Software Development
+   - [x] Class 01: [Read: 01 - Java Basics](class401-01.md)
