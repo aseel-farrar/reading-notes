@@ -64,4 +64,5 @@ _Table of Notes-Readings:_
 
 4. ## Code 401 - Advanced Software Development
    - [x] Class 01: [Read: 01 - Java Basics](class401-01.md)
-   - [x] Class 01: [Read: 02 - Arrays, Loops, Imports](class401-02.md)
+   - [x] Class 02: [Read: 02 - Arrays, Loops, Imports](class401-02.md)
+   - [x] Class 03: [Read: 03 - Maps, primitives, File I/O](class401-03.md)
