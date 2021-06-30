@@ -67,3 +67,4 @@ _Table of Notes-Readings:_
    - [x] Class 02: [Read: 02 - Arrays, Loops, Imports](class401-02.md)
    - [x] Class 03: [Read: 03 - Maps, primitives, File I/O](class401-03.md)
    - [x] Class 04: [Read: 04 - OOP](class401-04.md)
+   - [x] Class 05: [Read: Linked Lists](class401-05.md)
