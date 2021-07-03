@@ -63,8 +63,10 @@ _Table of Notes-Readings:_
    - [x] Class 15: [Read: 15 - Diversity and Inclusion](class301-15.md)
 
 4. ## Code 401 - Advanced Software Development
+
    - [x] Class 01: [Read: 01 - Java Basics](class401-01.md)
    - [x] Class 02: [Read: 02 - Arrays, Loops, Imports](class401-02.md)
    - [x] Class 03: [Read: 03 - Maps, primitives, File I/O](class401-03.md)
    - [x] Class 04: [Read: 04 - OOP](class401-04.md)
-   - [x] Class 05: [Read: Linked Lists](class401-05.md)
+   - [x] Class 05: [Read: 05 - Linked Lists](class401-05.md)
+   - [x] Class 06: [Read: 06 - Inheritance and Interfaces](class401-06.md)
