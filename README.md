@@ -71,3 +71,4 @@ _Table of Notes-Readings:_
    - [x] Class 05: [Read: 05 - Linked Lists](class401-05.md)
    - [x] Class 06: [Read: 06 - Inheritance and Interfaces](class401-06.md)
    - [x] Class 08: [Read: 08 - OO Design](class401-08.md)
+   - [x] Class 09: [Read: 09 - WRRC and Java](class401-09.md)
