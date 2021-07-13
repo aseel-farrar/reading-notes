@@ -75,3 +75,4 @@ _Table of Notes-Readings:_
    - [x] Class 10: [Read: 10 - Stacks & Queues](class401-10.md)
    - [x] Class 11: [Read: 11 - Spring](class401-11.md)
    - [x] Class 12: [Read: 12 - Spring RESTful Routing & Static Files](class401-12.md)
+   - [x] Class 13: [Read: 13 - Related Resources and Integration Testing](class401-13.md)
