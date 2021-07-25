@@ -78,3 +78,4 @@ _Table of Notes-Readings:_
    - [x] Class 13: [Read: 13 - Related Resources and Integration Testing](class401-13.md)
    - [x] Class 14: [Read: 14 - Trees](class401-14.md)
    - [x] Class 16: [Read: 16 - Spring Authentication](class401-16.md)
+   - [x] Class 17: [Read: 17 - Spring Authorization](class401-17.md)
