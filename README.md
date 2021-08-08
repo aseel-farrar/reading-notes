@@ -81,3 +81,4 @@ _Table of Notes-Readings:_
    - [x] Class 17: [Read: 17 - Spring Authorization](class401-17.md)
    - [x] Class 18: [Read: 18 - Web App Security](class401-18.md)
    - [x] Class 19: [Read: 19 - Spring and Sockets](class401-19.md)
+   - [x] Class 26: [Read: 19 - Spring and Sockets](class401-26.md)
