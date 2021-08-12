@@ -84,3 +84,4 @@ _Table of Notes-Readings:_
    - [x] Class 26: [Read: 26 - Android Fundementlals](class401-26.md)
    - [x] Class 27: [Read: 27 - Intents, Activities, and SharedPreferences](class401-27.md)
    - [x] Class 28: [Read: 28 - RecyclerView](class401-28.md)
+   - [x] Class 29: [Read: 29 - Room](class401-29.md)
