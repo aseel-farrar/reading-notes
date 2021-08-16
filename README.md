@@ -87,3 +87,5 @@ _Table of Notes-Readings:_
    - [x] Class 29: [Read: 29 - Room](class401-29.md)
    - [x] Class 30: [Read: 30 - Hash Tables](class401-30.md)
    - [x] Class 31: [Read: 31 - Espresso](class401-31.md)
+   - [x] Class 32: [Read: 32 - Serverless and Amplify](class401-32.md)
+   - [x] Class 33: [Read: 33 - GraphQL @connection](class401-33.md)
