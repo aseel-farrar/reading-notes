@@ -89,5 +89,5 @@ _Table of Notes-Readings:_
    - [x] Class 31: [Read: 31 - Espresso](class401-31.md)
    - [x] Class 32: [Read: 32 - Serverless and Amplify](class401-32.md)
    - [x] Class 33: [Read: 33 - GraphQL @connection](class401-33.md)
-   - [x] Class 34: [Read: 34 - Graphs](class401-34.md)
-   - [x] Class 35: [Read: 34 - Graphs](class401-35.md)
+   - [x] Class 34: [Read: 34 - Monetization](class401-34.md)
+   - [x] Class 35: [Read: 35 - Graphs](class401-35.md)
