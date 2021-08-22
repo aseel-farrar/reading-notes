@@ -92,3 +92,4 @@ _Table of Notes-Readings:_
    - [x] Class 34: [Read: 34 - Monetization](class401-34.md)
    - [x] Class 35: [Read: 35 - Graphs](class401-35.md)
    - [x] Class 36: [Read: 36 - Cognito](class401-36.md)
+   - [x] Class 37: [Read: 37 - S3](class401-37.md)
