@@ -95,3 +95,4 @@ _Table of Notes-Readings:_
    - [x] Class 37: [Read: 37 - S3](class401-37.md)
    - [x] Class 38: [Read: 38 - Notifications](class401-38.md)
    - [x] Class 39: [Read: 39 - Kinesis](class401-39.md)
+   - [x] Class 41: [Read: 41 - Intent Filters](class401-41.md)
