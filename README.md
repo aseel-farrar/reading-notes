@@ -96,3 +96,5 @@ _Table of Notes-Readings:_
    - [x] Class 38: [Read: 38 - Notifications](class401-38.md)
    - [x] Class 39: [Read: 39 - Kinesis](class401-39.md)
    - [x] Class 41: [Read: 41 - Intent Filters](class401-41.md)
+   - [x] Class 42: [Read: 42 - Location](class401-41-a.md)
+   - [x] Class 42: [Read: Class 42 - Ethics in Tech](class401-41-b.md)
